@@ -1,9 +1,9 @@
 
-CS-With-Android Project Scarne's Dice
+CS-With-Android Project Touring Musician
 ============================
 
 
-**This repository contains code for module Scarne's Dice Game of Google's Computer Science with Android.**
+**This repository contains code for module Touring Musician Game of Google's Computer Science with Android.**
 [*Touring Musician CSwithAndroid*](https://cswithandroid.withgoogle.com/unit?unit=14&lesson=16)
 
 
